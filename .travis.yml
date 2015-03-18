@@ -1,25 +1,22 @@
-# Miniconda stuff shamelessly copied from
-# https://gist.github.com/dan-blanchard/7045057
-# and
-# https://github.com/Jorge-C/ordination/blob/master/.travis.yml
 language: python
 python:
-  - 2.7
-# Need to set this so that packages installed with apt-get are available
+    - 2.7
 virtualenv:
-  system_site_packages: true
+    system_site_packages: true
 before_install:
-  - wget http://repo.continuum.io/miniconda/Miniconda-2.2.2-Linux-x86_64.sh -O miniconda.sh
-  - chmod +x miniconda.sh
-  - ./miniconda.sh -b
-  - export PATH=/home/travis/anaconda/bin:$PATH
-  # Update conda itself
-  - conda update --yes conda
-  - conda install --yes pip python=$TRAVIS_PYTHON_VERSION sphinx
-  - pip install -q --use-mirrors sphinx_bootstrap_theme==0.4.5
+    - wget http://repo.continuum.io/miniconda/Miniconda-2.2.2-Linux-x86_64.sh -O miniconda.sh
+    - chmod +x miniconda.sh
+    - ./miniconda.sh -b
+    - export PATH=/home/travis/anaconda/bin:$PATH
+    - conda update --yes conda
+    - conda install --yes pip python=$TRAVIS_PYTHON_VERSION sphinx
+    - pip install -q --use-mirrors sphinx_bootstrap_theme==0.4.5
 install:
 script:
-  - make linkcheck
-  - make html
+    - make linkcheck
+    - make html
 after_success:
-  - bash .push-site.sh
+    - bash .push-site.sh
+env:
+    global:
+        secure: JUpW9do6iOM0ftoJzGDuG9HORN40pSCP/Wob2wKBwXRLBxG8uhPzef04CvbSZVW3u4FCJSWTsyHPVNNLRrWQDzC38JKJlVtR4ibZ/Jy1P+TzKGGToUUUk4oGoY0EmiP/9c5UrFLFnaaPEhSTVu9CFOkQu1wGlce/FpbMQ83UQy4=
