@@ -23,14 +23,11 @@ copyright = u'{:d}, Leonardo Uieda'.format(year)
 version = '2015'
 # I'll use the release to place the commit hash at the footer of the site
 release = '' #__commit__.split('-')[0] # Get rid of -dirty
-doi = 'not set'
 
 # These enable substitutions using |variable| in the rst files
 rst_epilog = """
-.. |doi| replace:: {doi}
-.. |doilink| replace:: doi:`{doi} <http://dx.doi.org/{doi}>`__
 .. |year| replace:: {year}
-""".format(doi=doi, year=year)
+""".format(year=year)
 
 html_last_updated_fmt = '%b %d, %Y'
 html_title = u'Geofísica 2'
