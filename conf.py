@@ -30,7 +30,7 @@ rst_epilog = """
 """.format(year=year)
 
 html_last_updated_fmt = '%b %d, %Y'
-html_title = u'Geofísica 2'
+html_title = u'Geofísica 2 - FGEL/UERJ'
 html_short_title = u'Geofísica 2'
 html_logo = ''
 html_favicon = u'favicon.png'
@@ -69,19 +69,19 @@ htmlhelp_basename = 'geofisica2'
 html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
-    'bootswatch_theme': "cosmo",
+    'bootswatch_theme': "flatly",
     'navbar_title': u'geofísica 2',
-    'navbar_site_name': "Site",
+    'navbar_site_name': u"Tópicos",
     'navbar_links': [
-        ('<i class="fa fa-github-square fa-lg" title="Source code on Github"></i>',
-            "https://github.com/lagex/geofisica2", True),
+        #('<i class="fa fa-github-square fa-lg" title="Source code on Github"></i>',
+            #"https://github.com/lagex/geofisica2", True),
         #('<i class="fa fa-envelope fa-lg" title="Mailing list"></i>',
             #"https://groups.google.com/d/forum/fatiando", True),
     ],
     # Render the next and previous page links in navbar. (Default: true)
-    'navbar_sidebarrel': False,
+    'navbar_sidebarrel': True,
     # Render the current pages TOC in the navbar. (Default: true)
-    'navbar_pagenav': True,
+    'navbar_pagenav': False,
     # Tab name for the current pages TOC. (Default: "Page")
     'navbar_pagenav_name': "This page",
     # Global TOC depth for "site" navbar tab. (Default: 1)
@@ -92,7 +92,7 @@ html_theme_options = {
     # non-hidden ``toctree`` directives in the same page, or else the build
     # will break.
     # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "true",
+    'globaltoc_includehidden': "false",
     # HTML navbar class (Default: "navbar") to attach to <div> element.
     # For black navbar, do "navbar navbar-inverse"
     'navbar_class': "navbar navbar-default",
