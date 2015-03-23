@@ -9,20 +9,39 @@ extensions = [
     'sphinx.ext.extlinks',
 ]
 
+# Make sure versioneer is imported from here
+here = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, here)
+import versioneer
+
+versioneer.VCS = 'git'
+versioneer.tag_prefix = ''
+versioneer.versionfile_source = 'version.py' # This line is useless
+versioneer.parentdir_prefix = 'geofisica2-'
+versions = versioneer.get_versions()
+commit = versions['full']
+version = versions['version']
+if version == 'master':
+    # When downloading a zip from Github, versioneer gets the version from the
+    # directory name in the zip file. That would endup being 'master'. More
+    # useful would be the commit hash. The pattern below will be replaced by
+    # git when 'git archive' is called
+    version = '$Format:%H$'
+
+# General information about the project
+year = datetime.date.today().year
+project = u'Geofisica 2'
+copyright = u'{:d}, Leonardo Uieda'.format(year)
+version = year
+# I'll use the release to place the commit hash at the footer of the site
+release = commit.split('-')[0] # Get rid of -dirty
+
 # Sphinx project configuration
 templates_path = ['_templates']
 exclude_patterns = ['_build']
 source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 master_doc = 'index'
-
-# General information about the project
-year = datetime.date.today().year
-project = u'Geofisica 2'
-copyright = u'{:d}, Leonardo Uieda'.format(year)
-version = '2015'
-# I'll use the release to place the commit hash at the footer of the site
-release = '' #__commit__.split('-')[0] # Get rid of -dirty
 
 # These enable substitutions using |variable| in the rst files
 rst_epilog = """
