@@ -23,7 +23,6 @@
         <div class="row">
 
         <div class="col-md-4">
-        <p>
         {%- if show_copyright %}
         {%- if hasdoc('copyright') %}
         {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a
@@ -50,19 +49,19 @@
         </div>
 
         <div class="col-md-4">
-        Automatically generated from:
-        <a href="https://github.com/lagex/geofisica2">lagex/geofisica2</a>
-        </br>
-        Version: {{ version }}
-        (<a href="https://github.com/lagex/geofisica2/{{ release }}">{{ release[:7] }}</a>)
-        </br>
         {%- if last_updated %}
         {% trans last_updated=last_updated|e %}Built on {{ last_updated }}
         by <a href="https://travis-ci.org">Travis CI</a>.
-        {% endtrans %}<br/>
+        {% endtrans %}
+        <br/>
         {%- endif %}
+        Version: {{ version }}
+        (<a href="https://github.com/lagex/geofisica2/commit/{{ release }}">{{ release[:7] }}</a>)
+        </br>
         Icons by <a href="http://fontawesome.io/">Font Awesome</a>.
-        </p>
+        </br>
+        Source code at
+        <a href="https://github.com/lagex/geofisica2">lagex/geofisica2</a>.
         </div>
 
         </div>

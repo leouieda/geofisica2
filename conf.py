@@ -5,7 +5,7 @@ import datetime
 import sphinx_bootstrap_theme
 
 extensions = [
-    'sphinx.ext.mathjax',
+    #'sphinx.ext.mathjax',
     'sphinx.ext.extlinks',
 ]
 
@@ -92,13 +92,12 @@ html_theme_options = {
     'navbar_title': u'geofísica 2',
     'navbar_site_name': u"Tópicos",
     'navbar_links': [
-        #('<i class="fa fa-github-square fa-lg" title="Source code on Github"></i>',
-            #"https://github.com/lagex/geofisica2", True),
+        ('Ementa', "ementa"),
         #('<i class="fa fa-envelope fa-lg" title="Mailing list"></i>',
             #"https://groups.google.com/d/forum/fatiando", True),
     ],
     # Render the next and previous page links in navbar. (Default: true)
-    'navbar_sidebarrel': True,
+    'navbar_sidebarrel': False,
     # Render the current pages TOC in the navbar. (Default: true)
     'navbar_pagenav': False,
     # Tab name for the current pages TOC. (Default: "Page")
@@ -111,7 +110,7 @@ html_theme_options = {
     # non-hidden ``toctree`` directives in the same page, or else the build
     # will break.
     # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "false",
+    'globaltoc_includehidden': "true",
     # HTML navbar class (Default: "navbar") to attach to <div> element.
     # For black navbar, do "navbar navbar-inverse"
     'navbar_class': "navbar navbar-default",
