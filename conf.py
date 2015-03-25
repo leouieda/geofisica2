@@ -5,7 +5,7 @@ import datetime
 import sphinx_bootstrap_theme
 
 extensions = [
-    #'sphinx.ext.mathjax',
+    'sphinx.ext.mathjax',
     'sphinx.ext.extlinks',
 ]
 
@@ -93,8 +93,8 @@ html_theme_options = {
     'navbar_site_name': u"Práticas",
     'navbar_links': [
         ('Ementa', "ementa"),
-        #('<i class="fa fa-envelope fa-lg" title="Mailing list"></i>',
-            #"https://groups.google.com/d/forum/fatiando", True),
+        ('<i class="fa fa-envelope fa-fw" title="Lista de e-mails"></i>',
+            "https://groups.google.com/d/forum/geofisica-uerj", True),
     ],
     # Render the next and previous page links in navbar. (Default: true)
     'navbar_sidebarrel': False,
