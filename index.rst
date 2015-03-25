@@ -199,7 +199,7 @@ Para ser justo, a **menor nota será excluída** do cálculo da média final.
 
     <h4>Atenção</h4>
 
-    Questionários praticamente idênticos recerão nota zero. A discussão em
+    Questionários praticamente idênticos receberão nota zero. A discussão em
     durante a prática é encorajada. Mas na hora de escrever, cada um deve
     responder com suas próprias palavras.
 
