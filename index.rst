@@ -25,7 +25,7 @@
 .. raw:: html
 
     <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
 
     <h2>Ementa</h2>
 
@@ -43,7 +43,7 @@ Veja a ementa completa em :ref:`ementa`.
 .. raw:: html
 
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
 
     <h2>Práticas</h2>
 
@@ -55,6 +55,21 @@ Veja a ementa completa em :ref:`ementa`.
     praticas/terremotos
     praticas/ondas-superficie
     praticas/refracao
+
+.. raw:: html
+
+    </div>
+    <div class="col-md-4">
+
+    <h2>Calendário da disciplina</h2>
+
+    <div class="embed-responsive" style="min-height: 300px;">
+    <iframe class="embed-responsive-item"
+    src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;hl=pt_BR&amp;bgcolor=%23ffffff&amp;src=ktua4hec2hjahvpvr5lgsdqdbc%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo"
+    frameborder="0"
+    scrolling="no"></iframe>
+    </div>
+
 
 .. raw:: html
 
