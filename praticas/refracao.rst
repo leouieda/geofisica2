@@ -1,5 +1,5 @@
 .. title:: Sísmica de refração
-.. _terremotos:
+.. _refracao:
 
 Sísmica de refração
 ===================
