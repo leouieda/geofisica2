@@ -133,7 +133,7 @@ O horário reservado para tirar dúvidas da disciplina é:
 
     <ul class="fa-ul">
     <li><i class="fa-li fa fa-calendar fa-fw"></i>
-        Quarta-feira - 13:00-14:00
+        Terça-feira - 13:00-14:00
     </li>
     <li><i class="fa-li fa fa-map-marker fa-fw"></i>
         Sala 2029A ou 2031A
@@ -174,7 +174,7 @@ A menor nota dos questionários será excluída da média.
 
     \text{média} =
         \frac{(\sum \text{questionários}) + 2\times \text{seminário}}{
-              \text{num. práticas} + 2}
+              \text{num. questionários} + 2}
 
 Para ver aprovado o aluno deverá obter :math:`\text{média} \geq 5.0`.
 
@@ -237,7 +237,7 @@ Os critérios para avaliação são:
   prática. Também deve explicar a teoria correspondente e mostrar o que foi
   aprendido durante a prática, resultados obtidos, etc. Use o questionário
   como guia.
-* **Pergunras** após o seminário. Farei perguntas sobre as questões abordadas
+* **Perguntas** após o seminário. Farei perguntas sobre as questões abordadas
   no seminário para testar o conhecimento do aluno. Também perguntarei sobre
   temas que não foram cobertos de maneira satisfatória durante a apresentação.
 
