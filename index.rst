@@ -172,9 +172,11 @@ A menor nota dos questionários será excluída da média.
 
 .. math::
 
-    \text{Média} =
+    \text{média} =
         \frac{(\sum \text{questionários}) + 2\times \text{seminário}}{
               \text{num. práticas} + 2}
+
+Para ver aprovado o aluno deverá obter :math:`\text{média} \geq 5.0`.
 
 .. raw:: html
 
