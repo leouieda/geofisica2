@@ -37,10 +37,38 @@ Veja a ementa completa em :ref:`ementa`.
 
     <h2>Aulas</h2>
 
-* Teóricas (Quinta-feira): Apresentação dos conceitos de cada tópico.
-* Práticas (Sexta-feira//LAGEX - 2031A):
-  Atividades no computador e com equipamentos para fixar e aprofundar os
-  conceitos apresentados nas aulas teóricas.
+    <h3>Teóricas</h3>
+
+    <p>
+    Apresentação dos conceitos de cada tópico,
+    tirar dúvidas sobre as práticas
+    e apresentação de seminários.
+    </p>
+
+    <ul class="fa-ul">
+    <li><i class="fa-li fa fa-calendar fa-fw"></i>
+        Quinta-feira - 17:00-18:45
+    </li>
+    <li><i class="fa-li fa fa-map-marker fa-fw"></i>
+        Sala a definir
+    </li>
+    </ul>
+
+    <h3>Práticas</h3>
+
+    <p>
+    Atividades no computador e com equipamentos para fixar e aprofundar os
+    conceitos apresentados nas aulas teóricas.
+    </p>
+
+    <ul class="fa-ul">
+    <li><i class="fa-li fa fa-calendar fa-fw"></i>
+        Sexta-feira - 10:40-12:20 e 16:10-17:50
+    </li>
+    <li><i class="fa-li fa fa-map-marker fa-fw"></i>
+        LAGEX - Sala 2031A
+    </li>
+    </ul>
 
 .. raw:: html
 

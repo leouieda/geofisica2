@@ -90,7 +90,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'bootswatch_theme': "flatly",
     'navbar_title': u'geofísica 2',
-    'navbar_site_name': u"Tópicos",
+    'navbar_site_name': u"Práticas",
     'navbar_links': [
         ('Ementa', "ementa"),
         #('<i class="fa fa-envelope fa-lg" title="Mailing list"></i>',
@@ -110,7 +110,7 @@ html_theme_options = {
     # non-hidden ``toctree`` directives in the same page, or else the build
     # will break.
     # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "true",
+    'globaltoc_includehidden': "false",
     # HTML navbar class (Default: "navbar") to attach to <div> element.
     # For black navbar, do "navbar navbar-inverse"
     'navbar_class': "navbar navbar-default",
