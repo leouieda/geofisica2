@@ -127,6 +127,9 @@ Veja a ementa completa em :ref:`ementa`.
 Mandem suas dúvidas para a `lista de e-mails do curso
 <https://groups.google.com/d/forum/geofisica-uerj>`__.
 
+.. image:: http://www.phdcomics.com/comics/archive/phd032515s.gif
+    :target: http://www.phdcomics.com/comics.php?f=1790
+
 O horário reservado para tirar dúvidas da disciplina é:
 
 .. raw:: html
