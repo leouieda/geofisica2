@@ -4,13 +4,7 @@ python:
 virtualenv:
     system_site_packages: true
 before_install:
-    - wget http://repo.continuum.io/miniconda/Miniconda-2.2.2-Linux-x86_64.sh -O miniconda.sh
-    - chmod +x miniconda.sh
-    - ./miniconda.sh -b
-    - export PATH=/home/travis/anaconda/bin:$PATH
-    - conda update --yes conda
-    - conda install --yes pip python=$TRAVIS_PYTHON_VERSION sphinx
-    - pip install -q --use-mirrors sphinx_bootstrap_theme==0.4.5
+    - pip install sphinx sphinx_bootstrap_theme==0.4.5
 install:
 script:
     - make linkcheck
