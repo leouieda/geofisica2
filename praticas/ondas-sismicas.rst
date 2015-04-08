@@ -28,12 +28,6 @@ Prática 1: Ondas sísmicas
     </li>
     </ul>
 
-    <div class="embed-responsive"
-        style="min-height: 600px; border:1px solid #333;">
-    <iframe
-    src="https://docs.google.com/document/d/1IsIyfbxbjKNiKPYMNWebqh67yzP9R4EOD-vWhZdeQ4s/pub?embedded=true"></iframe>
-    </div>
-
 .. raw:: html
 
     </div>
