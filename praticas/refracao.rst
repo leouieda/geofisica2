@@ -1,8 +1,8 @@
 .. title:: Sísmica de refração
 .. _refracao:
 
-Sísmica de refração
-===================
+Prática 4: Sísmica de refração
+===============================
 
 Em preparação.
 

@@ -1,8 +1,8 @@
 .. title:: Sismogramas e ondas de superfície
 .. _ondas-superficie:
 
-Sismogramas e ondas de superfície
-=================================
+Prática 3: Sismogramas e ondas de superfície
+============================================
 
 Em preparação.
 
