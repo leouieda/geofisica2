@@ -69,6 +69,10 @@ O questionário possui um IPython notebook com código interativo para ajudar na
 questões. O notebook é **complementar ao questionário**. Use-o para entender
 melhor as perguntas e achar as respostas.
 
+O notebook complementar `catalogo-sismos.ipynb
+<http://nbviewer.ipython.org/github/lagex/geofisica2/blob/master/notebooks/catalago-sismos.ipynb>`__
+gera a figura com os mecanismos focais de sismos para o mundo todo.
+
 **Baixe o notebook** para seu computador para poder executá-lo.
 Para rodar o notebook, abra um terminal
 e digite ``ipython notebook`` (e aperte "enter").
