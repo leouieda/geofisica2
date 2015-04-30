@@ -47,7 +47,7 @@ Esse conteúdo dará a base teórica para entender as atividades da prática.
     Veja as questões no <a href="https://docs.google.com/document/d/1jQMo1qwKehsTk7dqh6K1oNqD_NRq77cYZAiFc1BeXNs/pub">Google Drive</a>
     </li>
     <li><i class="fa-li fa fa-file-pdf-o fa-fw"></i>
-    Baixe como PDF: <a href="">2-terremotos.pdf</a>
+    Baixe como PDF: <a href="../_static/pdf/2-terremotos.pdf">2-terremotos.pdf</a>
     </li>
     </ul>
 
