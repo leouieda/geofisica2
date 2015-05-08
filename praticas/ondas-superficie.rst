@@ -11,13 +11,46 @@ Prática 3: Ondas de superfície
 
     <h2>Tópicos</h2>
 
-* Sismogramas de componentes
+* Sismogramas de 3 componentes
 * Chegadas de ondas P e S
+* Decomposição de ondas S em SV e SH
 * Ondas de superfície: Love e Rayleigh
 * Condições para surgimento de ondas de superfície
 * Dispersão de ondas de superfície
 
 .. raw:: html
+
+    <h2>Dados</h2>
+
+Nessa prática, vamos utilizar dados de dispersão de ondas Love para fazer uma
+modelagem direta.
+Esses dados são de um sismo que ocorreu em 2008
+no mar próximo a São Vicente - SP.
+
+Baixe o arquivo com os dados:
+`vel-grupo-sao-vicente.txt
+<https://raw.githubusercontent.com/lagex/geofisica2/master/data/vel-grupo-sao-vicente.txt>`__
+
+O sismo foi registrado nas estações de Valinhos - SP e Rio Claro - SP.
+
+.. raw:: html
+
+    <div class="responsive-embed">
+    <iframe
+    src="https://www.google.com/maps/d/embed?mid=zdRgD-zrdVfU.kbc3ccKBGJMw"
+    width="420" height="315"></iframe>
+    </div>
+
+As velocidades da curva de dispersão foram medidas entre as duas estações.
+
+.. image:: ../_static/img/dispersao-sao-vicente.png
+    :width: 70%
+
+
+.. raw:: html
+
+    </div>
+    <div class="col-md-6">
 
     <h2>Questionário</h2>
 
@@ -32,9 +65,6 @@ Prática 3: Ondas de superfície
     </ul>
 
 .. raw:: html
-
-    </div>
-    <div class="col-md-6">
 
     <h2>IPython notebook</h2>
 
