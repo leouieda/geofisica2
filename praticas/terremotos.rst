@@ -30,7 +30,7 @@ Esse conteúdo dará a base teórica para entender as atividades da prática.
 .. raw:: html
 
     <div class="responsive-embed">
-    <iframe width="420" height="315"
+    <iframe width="100%" height="315"
     src="https://www.youtube.com/embed/MomVOkyDdLo" frameborder="0"
     allowfullscreen></iframe>
     </div>

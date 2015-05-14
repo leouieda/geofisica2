@@ -55,6 +55,7 @@ Veja a ementa completa em :ref:`ementa`.
     praticas/terremotos
     praticas/ondas-superficie
     praticas/refracao
+    praticas/sismica-refracao
 
 .. raw:: html
 
