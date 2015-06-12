@@ -11,29 +11,30 @@ Prática 5: Sísmica de refração
 
     <h2>Tópicos</h2>
 
-* Aquisição sísmica de refração
+* Procedimentos para aquisição de dados de sísmica de refração
+* Simulação numérica de aquisições para diferentes modelos
+* Visualização de sismogramas e identificação das chegadas das ondas
+  refratadas, direta e refletidas
 * Interpretação de dados com modelos de camadas planas
-* Modelos de camadas inclinadas
-* Simulação de uma aquisição
 
 .. raw:: html
-
-    </div>
-    <div class="col-md-6">
 
     <h2>Questionário</h2>
 
     <ul class="fa-ul">
     <li><i class="fa-li fa fa-file-text-o fa-fw"></i>
     Veja as questões no <a
-    href="">Google Drive</a>
+    href="https://docs.google.com/document/d/1WydaTJsxFy2B8ibOE_cqZlJueMHRJTdMTKce6BEkQYo/pub">Google Drive</a>
     </li>
     <li><i class="fa-li fa fa-file-pdf-o fa-fw"></i>
-    Baixe como PDF: <a href="../_static/pdf/5-sismica-refracao.pdf">4-refracao.pdf</a>
+    Baixe como PDF: <a href="../_static/pdf/5-sismica-refracao.pdf">5-sismica-refracao.pdf</a>
     </li>
     </ul>
 
 .. raw:: html
+
+    </div>
+    <div class="col-md-6">
 
     <h2>IPython notebook</h2>
 
