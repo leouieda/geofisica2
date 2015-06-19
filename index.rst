@@ -56,6 +56,7 @@ Veja a ementa completa em :ref:`ementa`.
     praticas/ondas-superficie
     praticas/refracao
     praticas/sismica-refracao
+    praticas/reflexao-cmp-nmo
 
 .. raw:: html
 
