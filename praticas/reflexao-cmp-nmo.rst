@@ -23,7 +23,7 @@ Prática 6: Sísmica de reflexão: CMP, NMO e empilhamento
     <ul class="fa-ul">
     <li><i class="fa-li fa fa-file-text-o fa-fw"></i>
     Veja as questões no <a
-    href="https://docs.google.com/document/d/1WydaTJsxFy2B8ibOE_cqZlJueMHRJTdMTKce6BEkQYo/pub">Google Drive</a>
+    href="https://docs.google.com/document/d/1XNeanqo2vk87O8hRqPVXx-IiSvx9FE1Luj5_VeQlCdE/pub">Google Drive</a>
     </li>
     <li><i class="fa-li fa fa-file-pdf-o fa-fw"></i>
     Baixe como PDF: <a href="../_static/pdf/6-reflexao-cmp-nmo.pdf">6-reflexao-cmp-nmo.pdf</a>
