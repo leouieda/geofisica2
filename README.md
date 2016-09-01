@@ -6,10 +6,11 @@ Disciplina do curso de graduação em Geologia da [UERJ](http://www.uerj.br/).
 
 **Aulas:**
 
-* Teórica: Sexta 13:20 - 15:10 (T1 e T2)
-* Prática: Segunda 10:40 - 12:20 (T2) e Sexta 15:10 - 17:00 (T1)
+* Teórica: Sexta 13:20 - 15:10 (T1 e T2) | Sala 4015F
+* Prática: Segunda 10:40 - 12:20 (T2) e Sexta 15:10 - 17:00 (T1) | No LAGEX
+  (2031A)
 
-**Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
+**Professor:** [Leonardo Uieda](http://www.leouieda.com/) | Sala 2019A
 
 **Material**: https://github.com/leouieda/geofisica2
 
