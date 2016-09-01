@@ -1,0 +1,14 @@
+name: geofisica2
+dependencies:
+    - python=2.7
+    - pip
+    - numpy
+    - scipy
+    - matplotlib
+    - numba
+    - future
+    - pillow
+    - jupyter
+    - ipython
+    - pip:
+        - https://github.com/fatiando/fatiando/archive/wavefd.zip
