@@ -10,5 +10,7 @@ dependencies:
     - pillow
     - jupyter
     - ipython
+    - ipywidgets
+    - h5py
     - pip:
         - https://github.com/fatiando/fatiando/archive/wavefd.zip
