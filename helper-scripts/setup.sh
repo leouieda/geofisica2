@@ -11,6 +11,8 @@
 # from Github
 git reset HEAD .
 git checkout -- .
+# Erase the HDF5 caches of previous simulations
+find . -name "*.h5" -exec rm -v {} \;
 git checkout master
 git pull origin master
 
