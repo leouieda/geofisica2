@@ -10,26 +10,26 @@
 # Reset the repository by discarting all changes and pulling the latest commits
 # from Github
 
-echo "Discarding local changes to the repository...\n\n"
+echo "Discarding local changes to the repository..."
 git reset HEAD .
 git checkout -- .
 
 # Erase the HDF5 caches of previous simulations
-echo "\nRemoving old simulation cache files...\n\n"
+echo "Removing old simulation cache files..."
 find . -name "*.h5" -exec rm -v {} \;
 
-echo "\nFetching latest changes from Github...\n\n"
+echo "Fetching latest changes from Github..."
 git checkout master
 git pull origin master
 
 # Activate the environment
-echo "\nActivating conda environment...\n\n"
+echo "Activating conda environment..."
 source activate geofisica2
 
 # Update Fatiando
-echo "\nUpdating Fatiando a Terra...\n\n"
+echo "Updating Fatiando a Terra..."
 pip install --upgrade https://github.com/fatiando/fatiando/archive/wavefd.zip
 
 # Start Jupyter
-echo "\nStart the notebook server...\n\n"
+echo "Start the notebook server..."
 jupyter notebook
