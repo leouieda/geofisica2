@@ -112,18 +112,29 @@ Textos, códigos, slides, etc estarão disponíveis no site da disciplina.
 
 O cronograma provavelmente sofrerá alterações ao longo do semestre.
 
+Cada semana do curso abordará um tema com uma atividade prática associada. As
+práticas são feitas no computador usando
+[Jupyter notebooks](http://jupyter.org/) e a biblioteca de modelagem geofísica
+[Fatiando a Terra](http://www.fatiando.org/).
+
+Na tabela abaixo, use os links "visualizar" para ver uma versão não-executável
+dos notebooks e os links "executar" para rodar os notebooks online (graças ao
+serviço gratuito [Binder](http://mybinder.org/)).
+Você não precisará instalar os programas em seu computador, porém seu trabalho
+não ficará salvo.
+
 | Semana | Tema                                 | Prática |
 |:------:|:-------------------------------------|:-------:|
-| 1    | Ondas sísmicas | [notebook](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb)  |
-| 2    | Terremotos |   |
-| 3    | Reflexão e refração |   |
-| 4    | Refração crítica |   |
-| 5    | Sísmica de refração |   |
-| 6    | Sísmica de reflexão: aquisição 2D e CMPs |   |
-| 7    | Sísmica de reflexão: NMO e empilhamento |   |
-| 8    | Sísmica de reflexão: juntando tudo |   |
-| 9    | Resolução e armadilhas |   |
-| 10   | --- |   |
+| 1     | Ondas sísmicas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb) |
+| 2     | Reflexão e refração |   |
+| 3     | Refração crítica |   |
+| 4     | Sísmica de refração |   |
+| 5     | Sísmica de reflexão: aquisição 2D e CMPs |   |
+| 6     | Sísmica de reflexão: NMO e empilhamento |   |
+| 7     | Sísmica de reflexão: juntando tudo |   |
+| 8     | Resolução e armadilhas na interpretação |   |
+| 9     | --- |   |
+| extra | Terremotos e tectônica de placas |   |
 
 
 ## Bibliografia
