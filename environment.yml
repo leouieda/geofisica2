@@ -1,6 +1,4 @@
-name: geofisica2-try
-channels:
-    - conda-forge
+name: geofisica2
 dependencies:
     - python=2.7
     - pip
@@ -14,6 +12,5 @@ dependencies:
     - ipython
     - ipywidgets
     - h5py
-    - ffmpeg
     - pip:
         - https://github.com/fatiando/fatiando/archive/wavefd.zip
