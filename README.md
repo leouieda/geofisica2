@@ -28,7 +28,7 @@ https://groups.google.com/forum/#!forum/geofisica-uerj
 * [Aulas](#aulas)
 * [Avaliação](#avaliação)
 * [Cronograma](#cronograma)
-* [Bibliografia](#cronograma)
+* [Bibliografia](#bibliografia)
 
 
 ## Conduta
