@@ -99,13 +99,21 @@ Textos, códigos, slides, etc estarão disponíveis no site da disciplina.
 
 ## Avaliação
 
-* A **média final** será a média das notas dos questionários realizados nas
-  atividades práticas. Teremos ~10 questionários.
+A média final (`MF`) será uma combinação da média dos questionários das
+práticas (`MP`) e a nota de uma apresentação em grupo (`MA`):
+
+    MF = 0.7 MP + 0.3 MA
+
+Algumas regras:
+
+* Provavelmente teremos cerca de 10 questionários.
 * Alunos que **não comparecerem** à aula prática não poderão entregar o
   respectivo questionário. Consequentemente, receberão **nota zero** nesse
   questionário.
 * Para não prejudicar alunos que faltarem eventualmente, não incluirei a menor
-  nota dos questionários na média.
+  nota dos questionários na média `MP`.
+* O [Guia das apresentações](https://github.com/leouieda/geofisica2/blob/master/guia-apresentacao.md)
+  explica as regras e critérios de avaliação. Lá também está a lista de temas.
 
 
 ## Cronograma
