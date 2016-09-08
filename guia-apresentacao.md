@@ -19,6 +19,7 @@
   abstrato.
 * As apresentações serão de 20 minutos. Apresentações que ultrapassem esse
   tempo ou sejam curtas demais serão penalizadas.
+* Após cada apresentação, teremos 10 minutos de arguição.
 
 
 ## Para entregar
