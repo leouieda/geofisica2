@@ -134,7 +134,7 @@ não ficará salvo.
 | Semana | Tema                                 | Prática |
 |:------:|:-------------------------------------|:-------:|
 | 1     | Ondas sísmicas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb) |
-| 2     | Reflexão e refração |   |
+| 2     | Reflexão e refração: Lei de Snell | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/2-reflexao-refracao.ipynb) |
 | 3     | Refração crítica |   |
 | 4     | Sísmica de refração |   |
 | 5     | Sísmica de reflexão: aquisição 2D e CMPs |   |
