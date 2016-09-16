@@ -135,7 +135,7 @@ não ficará salvo.
 |:------:|:-------------------------------------|:-------:|
 | 1     | Ondas sísmicas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb) |
 | 2     | Reflexão e refração: Lei de Snell | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/2-reflexao-refracao.ipynb) |
-| 3     | Refração crítica |   |
+| 3     | Refração crítica | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/3-refracao-critica.ipynb) |
 | 4     | Sísmica de refração |   |
 | 5     | Sísmica de reflexão: aquisição 2D e CMPs |   |
 | 6     | Sísmica de reflexão: NMO e empilhamento |   |
