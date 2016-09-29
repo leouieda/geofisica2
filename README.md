@@ -136,12 +136,13 @@ não ficará salvo.
 | 1     | Ondas sísmicas | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/1-ondas-sismicas.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/1-ondas-sismicas.ipynb) |
 | 2     | Reflexão e refração: Lei de Snell | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/2-reflexao-refracao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/2-reflexao-refracao.ipynb) |
 | 3     | Refração crítica | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/3-refracao-critica.ipynb) |
-| 4     | Sísmica de refração |   |
-| 5     | Sísmica de reflexão: aquisição 2D e CMPs |   |
-| 6     | Sísmica de reflexão: NMO e empilhamento |   |
-| 7     | Sísmica de reflexão: juntando tudo |   |
-| 8     | Resolução e armadilhas na interpretação |   |
-| 9     | --- |   |
+| 4     | Sísmica de refração | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/4-sismica-refracao.ipynb) |
+| 5     | Seminários | --- |
+| 6     | Sísmica de reflexão: aquisição 2D e CMPs |   |
+| 7     | Sísmica de reflexão: NMO e empilhamento |   |
+| 8     | Sísmica de reflexão: juntando tudo |   |
+| 9     | Resolução e armadilhas na interpretação |   |
+| 10     | --- |   |
 | extra | Terremotos e tectônica de placas |   |
 
 
