@@ -138,11 +138,11 @@ não ficará salvo.
 | 3     | Refração crítica | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/3-refracao-critica.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/3-refracao-critica.ipynb) |
 | 4     | Sísmica de refração | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/4-sismica-refracao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/4-sismica-refracao.ipynb) |
 | 5     | Seminários | --- |
-| 6     | Sísmica de reflexão: aquisição 2D e CMPs |   |
-| 7     | Sísmica de reflexão: NMO e empilhamento |   |
-| 8     | Sísmica de reflexão: juntando tudo |   |
-| 9     | Resolução e armadilhas na interpretação |   |
-| 10     | --- |   |
+| 6     | Sísmica de reflexão: reflexão e seções Common Mid Point (CMP) | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/5-reflexao-cmp.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/5-reflexao-cmp.ipynb) |
+| 7     | Sísmica de reflexão: correção de Normal Move Out e empilhamento |   |
+| 8     | Sísmica de reflexão: aquisição 2D |   |
+| 9     | Sísmica de reflexão: juntando tudo |   |
+| 10    | Resolução e armadilhas na interpretação |   |
 | extra | Terremotos e tectônica de placas |   |
 
 
