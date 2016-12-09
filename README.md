@@ -140,9 +140,8 @@ não ficará salvo.
 | ---   | Seminários | --- |
 | 5     | Sísmica de reflexão: reflexão e seções Common Mid Point (CMP) | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/5-reflexao-cmp.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/5-reflexao-cmp.ipynb) |
 | 6     | Sísmica de reflexão: correção de Normal Moveout (NMO) e empilhamento | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/6-reflexao-nmo-empilhamento.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/6-reflexao-nmo-empilhamento.ipynb) |
-| 7     | Sísmica de reflexão: aquisição 2D |   |
-| 8     | Sísmica de reflexão: juntando tudo |   |
-| 9     | Resolução e armadilhas na interpretação |   |
+| 7     | Sísmica de reflexão: aquisição 2D e juntando tudo |   |
+| 8     | Sísmica de reflexão: resolução e armadilhas na interpretação | [visualizar](http://nbviewer.ipython.org/github/leouieda/geofisica2/blob/master/notebooks/8-reflexao-resolucao.ipynb) / [executar](http://mybinder.org/repo/leouieda/geofisica2/notebooks/notebooks/8-reflexao-resolucao.ipynb)  |
 | extra | Terremotos e tectônica de placas |   |
 
 
