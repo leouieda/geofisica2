@@ -4,7 +4,7 @@ dependencies:
     - pip
     - numpy
     - scipy
-    - matplotlib
+    - matplotlib=1.5
     - numba
     - future
     - pillow
