@@ -1,10 +1,12 @@
 name: geofisica2
+channels:
+    - conda-forge
 dependencies:
     - python=2.7
     - pip
     - numpy
     - scipy
-    - matplotlib=1.5
+    - matplotlib
     - numba
     - future
     - pillow
@@ -12,5 +14,6 @@ dependencies:
     - ipython
     - ipywidgets
     - h5py
+    - ffmpeg
     - pip:
         - https://github.com/fatiando/fatiando/archive/wavefd.zip
